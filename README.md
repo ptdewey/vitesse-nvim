@@ -1,4 +1,8 @@
-# Vitesse
+<h1 align="center">Vitesse</h1>
+
+<p align="center">
+    <img src="assets/screenshot-1.png" alt="Vitesse theme in neovim"/>
+</p>
 
 Port of the [Vitess VSCode theme](https://github.com/antfu/vscode-theme-vitesse)
 
