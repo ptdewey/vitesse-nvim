@@ -78,7 +78,7 @@ theme["Visual"] = {bg = "#333333"}
 theme["Cursor"] = {bg = "#dbd7ca", fg = "#181818"}
 theme["CursorColumn"] = {bg = "#181818"}
 theme["CursorLine"] = {link = "CursorColumn"}
-theme["LineNr"] = {fg = "#7a7a7a"}
+theme["LineNr"] = {fg = "#4d9375"}
 theme["LineNrAbove"] = {fg = "#7a7a7a"}
 theme["LineNrBelow"] = {link = "LineNrAbove"}
 theme["CursorLineNr"] = {fg = "#bfbaaa"}

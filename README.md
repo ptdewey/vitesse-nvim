@@ -4,7 +4,7 @@
     <img src="assets/screenshot-1.png" alt="Vitesse theme in neovim"/>
 </p>
 
-Port of the [Vitess VSCode theme](https://github.com/antfu/vscode-theme-vitesse)
+Port of the [Vitesse VSCode theme](https://github.com/antfu/vscode-theme-vitesse)
 
 ## Installation
 

@@ -19,15 +19,10 @@
 (defcolor orange "#d4976c")
 (defcolor cyan "#5da994")
 (defcolor coral "#c98a7d")
-
-;; property
 (defcolor darkYellow "#bd976a")
 (defcolor green "#80a665")
 (defcolor pink "#d9739f")
-; (defcolor yellow "#e6cc77")
 
-; (defcolor field "#b8a965")
-; (defcolor brightCyan "#5eaab5")
 (defcolor delim "#666666")
 (defcolor cmt "#758575")
 (defcolor str "#c98a7d")
@@ -166,7 +161,7 @@
 (hl Cursor :fg (altBg) :bg (fg))
 (hl CursorColumn :bg (lineHighlight))
 (ln CursorLine CursorColumn)
-(hl LineNr :fg (mutedInactive))
+(hl LineNr :fg (teal))
 (hl LineNrAbove :fg (mutedInactive))
 (ln LineNrBelow LineNrAbove)
 (hl CursorLineNr :fg (altFg))
